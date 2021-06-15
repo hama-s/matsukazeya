@@ -315,10 +315,9 @@ body {
 
 .tel {
   margin-top: 0;
-  margin-bottom: 10px;
-  font-size: 1.5em;
+  margin-bottom: 20px;
+  font-size: 1.6em;
   line-height: 1em;
-  white-space: nowrap;
 }
 
 #contact a {
@@ -372,14 +371,9 @@ body {
   vertical-align: baseline;
 }
 
-.num {
-  letter-spacing: -0.2em;
-}
-
 .c_item iframe {
   width: 100%;
   height: 256px;
-  
 }
 
 #location a {

@@ -298,7 +298,7 @@ body {
   margin-top: 0;
   margin-bottom: 20px;
   font-size: 1.6em;
-  letter-spacing: -0.1em;
+  
 }
 
 #contact a {
@@ -351,10 +351,6 @@ body {
 .c_item td {
   vertical-align: baseline;
   padding: 12px 0;
-}
-
-.num {
-  letter-spacing: -0.2em;
 }
 
 .c_item iframe {
